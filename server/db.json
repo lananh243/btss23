@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "student_name": "Tran Thi B",
+      "email": "tranthib@example.com",
+      "address": "456 Tran Hung Dao, HCM",
+      "phone": "0912345678",
+      "status": true,
+      "created_at": "2024-10-11T05:17:48.563Z",
+      "id": 2
+    },
+    {
+      "student_name": "Le Van C",
+      "email": "levanc@example.com",
+      "address": "789 Nguyen Trai, Da Nang",
+      "phone": "0901122334",
+      "status": true,
+      "created_at": "2024-10-11T04:27:06.047Z",
+      "id": 3
+    },
+    {
+      "student_name": "Pham Thi D",
+      "email": "phamthid@example.com",
+      "address": "321 Le Thanh Ton, Can Tho",
+      "phone": "0988112233",
+      "status": true,
+      "created_at": "2024-10-11T05:18:41.454Z",
+      "id": 4
+    },
+    {
+      "student_name": "Hoang Van E",
+      "email": "hoangvane@example.com",
+      "address": "654 Hai Ba Trung, Hue",
+      "phone": "0911223344",
+      "status": true,
+      "created_at": "2024-10-11T05:18:41.454Z",
+      "id": 5
+    },
+    {
+      "student_name": "Vu Van L",
+      "email": "vuvang@example.com",
+      "address": "123 Bach Dang, Da Nang",
+      "phone": "0933445566",
+      "status": true,
+      "created_at": "2024-10-11T05:18:41.454Z",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "student_name": "Bui Thi H",
+      "email": "buithih@example.com",
+      "address": "456 Ly Thuong Kiet, HCM",
+      "phone": "0944556677",
+      "status": false,
+      "created_at": "2024-10-03"
+    },
+    {
+      "student_name": "Tran Van I",
+      "email": "tranvani@example.com",
+      "address": "789, Ha Noi",
+      "phone": "0955667788",
+      "status": true,
+      "created_at": "2024-10-10T15:16:26.613Z",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "student_name": "Dang Thi J",
+      "email": "dangthij@example.com",
+      "address": "321 Le Van Sy, HCM",
+      "phone": "0966778899",
+      "status": false,
+      "created_at": "2024-10-01"
+    },
+    {
+      "student_name": "Lan Anh",
+      "email": "anh@gmail.com",
+      "address": "Hà Nội",
+      "phone": "0972536356",
+      "status": true,
+      "created_at": "2024-10-10T15:13:57.916Z",
+      "id": 11
+    },
+    {
+      "student_name": "Thu hường",
+      "email": "huong@gmail.com",
+      "address": "Phú Thọ\n",
+      "phone": "0987654321",
+      "status": true,
+      "created_at": "2024-10-10T15:13:57.916Z",
+      "id": 12
+    }
+  ]
+}
